@@ -1,0 +1,62 @@
+# ========================
+# General / OS
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+
+# ========================
+# Frontend (Node.js / React)
+# ========================
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.output/
+frontend/.vinxi/
+frontend/.nitro/
+frontend/.tanstack/
+frontend/*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# ========================
+# Backend (Python / FastAPI)
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+backend/env/
+backend/.venv/
+backend/.env
+backend/.pytest_cache/
+backend/test-reports/
+backend/uploads/
+backend/temp/
+
+# ========================
+# Data Science & Notebooks
+# ========================
+notebooks/.ipynb_checkpoints/
+*.csv
+*.dat
+*.pkl
+*.h5
+*.onnx
+
+# Ignore all environment variables files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

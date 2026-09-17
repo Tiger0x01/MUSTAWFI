@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+
+# Uploads / Runtime Data (keep folder structure, ignore contents)
+uploads/*
+!uploads/.gitkeep
+
+# Logs, Debug & Temp files
+*.log
+output*.txt
+New Text Document*.ps1
+
+# OS / Editor
+.DS_Store
+.vscode/
