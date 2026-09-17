@@ -7,7 +7,7 @@
 ## 🔄 User Journey & Flow
 
 <p align="center">
-  <img src="assets/front_flow.png" alt="Frontend Journey Flow" width="100%">
+  <img src="../assets/front_flow.png" alt="Frontend Journey Flow" width="100%">
 </p>
 
 1. **الرفع / التقاط الكاميرا (`Upload`)**: رفع صورة الطلب (JPG, PNG, WEBP) أو الالتقاط المباشر بكاميرا الويب.
